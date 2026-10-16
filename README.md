@@ -134,20 +134,27 @@ optimizer = torch.optim.SGD(model.parameters(), lr=0.001)
 ### Dataset Information
 Include screenshot of the generated data
 
+<img width="1778" height="282" alt="image" src="https://github.com/user-attachments/assets/efec9b47-dafb-4440-aac5-bea5341d6719" />
+
+
 ### OUTPUT
 Training Loss Vs Iteration Plot
-<img width="877" height="593" alt="image" src="https://github.com/user-attachments/assets/6542bf4f-b2ea-4a37-94cb-cbfc1c2036dc" />
 
+<img width="760" height="591" alt="image" src="https://github.com/user-attachments/assets/ef2a31e0-a2ac-4a47-a8c8-08968cbebc8b" />
 
 Best Fit line plot
-<img width="935" height="602" alt="image" src="https://github.com/user-attachments/assets/f1737688-bc1f-41a0-9e9f-dd2e11c9c783" />
+
+<img width="767" height="590" alt="image" src="https://github.com/user-attachments/assets/1c66462b-7229-4caf-a536-0ccde14094b6" />
 
 Include your plot here
-<img width="1047" height="771" alt="image" src="https://github.com/user-attachments/assets/637bbf60-3ec9-40b2-8552-c76d65f2af18" />
 
+<img width="758" height="615" alt="image" src="https://github.com/user-attachments/assets/12e824b7-8799-4319-b3e6-6ab9afa32cfd" />
 
 ### New Sample Data Prediction
 Include your sample input and output here
+
+<img width="1755" height="288" alt="image" src="https://github.com/user-attachments/assets/bb1b396a-0237-44a5-aefd-5173b85b0969" />
+
 
 ## RESULT
 Thus, a neural network regression model was successfully developed and trained using PyTorch.
